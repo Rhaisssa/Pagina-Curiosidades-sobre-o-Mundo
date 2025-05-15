@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(185, 183, 187);
+    font-family: Bai Jamjuree;
+}
+
+footer {
+    background-color: rgb(116, 64, 236);
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 2rem;
+}
