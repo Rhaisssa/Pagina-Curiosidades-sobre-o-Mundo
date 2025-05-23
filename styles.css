@@ -129,6 +129,18 @@ body {
     padding: 0 5px;
 }
 
+footer {
+    background: linear-gradient(90deg, #f0f, #0ff);
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+}
+footer a {
+    color: #fff;
+    text-decoration: underline;
+}
 
 /* --- Media Queries --- */
 
